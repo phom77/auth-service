@@ -488,3 +488,7 @@ $RECYCLE.BIN/
 
 # IDE user-specific files
 *.csproj.user
+
+# Local application secrets
+appsettings.Local.json
+appsettings.*.Local.json
